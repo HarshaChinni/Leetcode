@@ -10,7 +10,7 @@
 # You are given an API bool isBadVersion(version) which will return whether version is bad.
 # Implement a function to find the first bad version. You should minimize the number of calls to the API.
 
-# Question ENDS
+# Question END
 
 
 # The isBadVersion API is already defined for you.
